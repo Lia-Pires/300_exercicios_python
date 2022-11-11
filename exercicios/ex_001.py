@@ -2,6 +2,6 @@
 1- Crie três variáveis com três tipos de dados diferentes, respeitando sua sintaxe:
 '''
 
-nome = 'Lia'
-ano = 1992
-valor = 20.05
+name = 'Lia'
+year = 1992
+value = 20.05
