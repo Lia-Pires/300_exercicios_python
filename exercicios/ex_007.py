@@ -1,5 +1,6 @@
 '''
-07 - Peça para que o usuário digite um número, em seghuia exiba em tela o número digitado
+07 - Peça para que o usuário digite um número, 
+em seguida exiba em tela o número digitado
 '''
 
 num = input("Digite um número: ")
