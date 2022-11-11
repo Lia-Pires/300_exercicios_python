@@ -1,5 +1,5 @@
 '''
-Crie uma variável nome e atribua para a mesma um nome digitado pelo usuário:
+05 - Crie uma variável nome e atribua para a mesma um nome digitado pelo usuário:
 '''
 
 nome = input("Digite um nome: ")
