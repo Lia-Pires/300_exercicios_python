@@ -1,5 +1,5 @@
 """ 
-Crie um programa que realiza a progressão aritmética de 20 elementos, com primeiro termo e razão definidos pelo usuário:
+31 - Crie um programa que realiza a progressão aritmética de 20 elementos, com primeiro termo e razão definidos pelo usuário:
 """
 
 # an = a1 + (n-1) * r
