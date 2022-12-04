@@ -1,6 +1,6 @@
-'''
+"""
 25 - Peça para que o usuário digite um número, em seguida exiba em tela uma mensagem dizendo se tal número é PAR ou ÍMPAR:
-'''
+"""
 
 num = int(input("Digite um número: "))
 
