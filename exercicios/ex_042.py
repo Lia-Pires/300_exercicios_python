@@ -1,5 +1,5 @@
 """
-Remova o elemento "Carlos"da lista de nomes
+42 - Remova o elemento "Carlos"da lista de nomes
 """
 nomes = ["Ana", "Carlos", "Eliana", "Jamile", "Fernando", "Maria", "Paulo"]
 nomes.remove("Carlos")
