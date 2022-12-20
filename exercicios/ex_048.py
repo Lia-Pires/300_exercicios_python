@@ -14,3 +14,5 @@ cadastro = {
     "Ocupação": "Engenheira de Software",
     "Renda": "5000.00 - 7000.00",
 }
+
+print(cadastro)
